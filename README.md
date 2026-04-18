@@ -52,9 +52,11 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: *(add later if you want)*
-- 💼 LinkedIn: *(add later)*
+
+- 📧 Email: [tranminhkhoi8407@gmail.com](mailto:tranminhkhoi8407@gmail.com)  
+- 💼 LinkedIn: [Khoi Tran Minh](https://www.linkedin.com/in/kh%C3%B4i-tr%E1%BA%A7n-minh-1aa10b389/)  
 - 🌐 GitHub: [tranminhkhoi8407-dev](https://github.com/tranminhkhoi8407-dev)
+
 
 ---
 
